@@ -45,7 +45,7 @@ const Navbar = () => {
             sx={{ flexGrow: 1, textTransform: "uppercase", cursor: "default" }}
             onClick={() => navigate('/')}
           >
-            Currency Scale
+            Na New Rate
           </Typography>
           {user && (
             <div style={{display: 'flex', alignItems: 'center'}}>
